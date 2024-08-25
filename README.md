@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any data science project.
 - 📫 How to reach me - Email: asma.fariha.ahmad@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Neatfreak and realize that neatfreak but can't help it.
+- ⚡ Fun fact: Neatfreak, can realize it but can't help it.
 
 <!---
 AsmaFariha/AsmaFariha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
