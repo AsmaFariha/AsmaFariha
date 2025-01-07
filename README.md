@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm passionate about turning complex data into actionable 
 ## 🚀 **About Me**
 - 🌟 Currently a **Data Scientist at RTEMSOFT Lab, Ontario Tech University**, focusing on predictive analytics, machine learning, and software quality.
 - 🧠 Leveraging advanced techniques like **LSTM, Random Forest, and XGBoost** for bug prediction, anomaly detection, and CI/CD optimization.
-- 📚 Former **Lecturer in Computer Science** and **Application Analyst**, with a knack for mentoring and building scalable systems.
-- 🎓 **Master's in Electrical and Computer Engineering** (CGPA: 4.0/4.3).
+- 📚 Former **Lecturer in Computer Science** and **Application Analyst**, with a knack for mentoring and building enterprise systems.
+- 🎓 **Master's in Electrical and Computer Engineering** from Ontario Tech University, Canada (CGPA: 4.0/4.3).
 
 ---
 
