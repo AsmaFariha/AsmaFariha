@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm passionate about turning complex data into actionable 
 
 ## 📈 **Highlighted Projects**
 ### (Most of them are not public GitHub Repo due to confidentiality agreement)
+- **[Code Vulnerability Detection](https://github.com/AsmaFariha/CodeSecureAI)**: Built cloud application to detect security vulnerabilities in code written in different programming languages, using prompt engineering, ChatGPT, and MongoDB.
 - **Predictive Bug Trends**: Built ML-based predictive models for bug counts with a low MAPE of 5%.
 - **CI/CD Optimization**: Designed solutions to improve test case prioritization for IBM's CI/CD systems.
 - **Real-Time Anomaly Detection**: Achieved 100% accuracy for critical execution functions using hybrid LSTM-CNN models.
