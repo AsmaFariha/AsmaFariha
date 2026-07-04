@@ -1,9 +1,9 @@
 <!-- ── BANNER ──────────────────────────────────────────────── -->
-![banner](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=0,2,10&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=44&fontAlignY=42&desc=AI%2FML%20Engineer%20·%20LLM%20%26%20Agentic%20Systems&descSize=15&descAlignY=68&descAlign=50)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F1117,50:2C2F3A,100:C4622D&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=42&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems&descSize=14&descAlignY=65)
 
 <!-- ── TYPING INTRO ────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C4622D&center=true&vCenter=true&width=640&lines=Research-backed+AI+engineer.;Ships+LLM+%2B+agentic+systems+end-to-end.;Building+data+systems+behind+frontier+LLMs+%40+Mercor.;5%C3%97+IEEE-published+researcher." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=C4622D&center=true&vCenter=true&width=660&lines=Research-backed+AI+engineer.;Ships+LLM+%2B+agentic+systems+end-to-end.;Directs+data+ops+behind+frontier+LLMs+%40+Mercor+AI.;5%C3%97+IEEE-published+researcher." alt="typing" />
 </p>
 
 <p align="center">
@@ -16,22 +16,22 @@
 
 ---
 
-## `▸ about`
+## `▸ About`
+
+Research-backed AI engineer who ships **LLM and agentic systems end-to-end** — from paper-grade research to deployed product. I build AI that earns its keep: useful, efficient, and grounded in real human needs.
 
 ```
-role      · AI/ML Engineer — LLM & Agentic Systems
-now       · Technical Project Manager @ Mercor AI (San Francisco · remote)
-building  · agentic LLM apps · continual-learning ML · frontier-AI data systems
-research  · 5× IEEE — LLMs, continual learning, anomaly detection
-based     · Oshawa, ON — open to remote & hybrid
+now         AI/ML Data Operations @ Mercor AI  ·  San Francisco (remote)
+building    agentic LLM apps  ·  continual-learning ML  ·  self-hosted models
+research    5× IEEE-published on LLMs, continual learning, anomaly detection
+prev        IBM CAS Canada  ·  Accenture (telecom infra · 50M users · 99.97% SLA)
 ```
 
-I build AI that earns its keep — useful, efficient, and grounded in real human needs.
-Research prototype → deployed product.
+I move fluently between the two halves people usually split — **research and production**. Whether the answer is a fine-tuned LSTM, a self-hosted MiniCPM pipeline, or a boring shell script, I pick the tool that actually ships.
 
 ---
 
-## `▸ featured — french coach 🇫🇷`
+## `▸ Featured — French Coach 🇫🇷`
 
 An **agentic French study tutor** that turns class notes into grounded practice.
 The core isn't a single prompt behind a text box — it's a multi-step **Coach Agent**
@@ -54,7 +54,7 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 
 ---
 
-## `▸ more projects`
+## `▸ More Projects`
 
 <table>
 <tr><td valign="top" width="33%">
@@ -91,7 +91,7 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 
 ---
 
-## `▸ publications`
+## `▸ Publications`
 
 - [Log Anomaly Detection by Leveraging LLM-Based Parsing and Embedding with Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10667308) — IEEE · 2024
 - [A Systematic Literature Review on Requirements Engineering and Maintenance for Embedded Software](https://doi.org/10.1109/ACCESS.2024.3443271) — IEEE Access · 2024
@@ -101,7 +101,7 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 
 ---
 
-## `▸ talks & recognition`
+## `▸ Talks & Recognition`
 
 - 🎤 **Replay-Based Continual Learning for Test Case Prioritization** · CCIW Workshop · ICST 2024 (IEEE) · York University, Toronto — [paper](https://ieeexplore.ieee.org/abstract/document/10675906)
 - 🎙️ **Towards a Requirements Specification Collaboration Forum** · MODELS 2023 · SmartDelta (ITEA4) — [talk](https://www.youtube.com/watch?v=Z4is7WzU4cY)
@@ -109,7 +109,7 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 
 ---
 
-## `▸ stack`
+## `▸ Stack`
 
 **Languages & Programming**
 <p>
@@ -155,11 +155,12 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 
 ---
 
-## `▸ activity`
+## `▸ Activity`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&title_color=C4622D&icon_color=C4622D&text_color=F7F5F0&bg_color=0F1117&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaFariha&layout=compact&hide_border=true&title_color=C4622D&text_color=F7F5F0&bg_color=0F1117&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&title_color=C4622D&icon_color=C4622D&text_color=F7F5F0&bg_color=0F1117" height="165" alt="Asma's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaFariha&layout=compact&hide_border=true&title_color=C4622D&text_color=F7F5F0&bg_color=0F1117&langs_count=8" height="165" alt="Top languages" />
 </p>
 
 ---
@@ -168,4 +169,4 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
   <sub><code>shipping ML · reading papers · building agentic systems</code></sub>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=0,2,10&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=0F1117&section=footer)
