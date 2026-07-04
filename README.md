@@ -1,52 +1,120 @@
-<div align="center">
+<!-- ── BANNER ──────────────────────────────────────────────── -->
+![banner](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=0,2,10&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=44&fontAlignY=42&desc=AI%20Engineer%20·%20ML%20Researcher%20·%20LLM%20Systems&descSize=15&descAlignY=68&descAlign=50)
 
-# 👋 Hi, I'm Asma Fariha
+<!-- ── TYPING INTRO ────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C4622D&center=true&vCenter=true&width=620&lines=Building+LLM+%2B+AI+safety+systems.;Directing+multimodal+data+ops+%40+Mercor+AI.;IEEE-published+researcher.;Ex-Accenture+%C2%B7+Ex-IBM+CAS." alt="typing" />
+</p>
 
-### AI/ML Engineer — LLM & Agentic Systems · Research-backed, ships to production
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-asmafariha.github.io-1f2327?logo=githubpages&logoColor=white)](https://asmafariha.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asma--fariha-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-fariha/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-5%20Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WVkjT2YAAAAJ&hl=en)
-[![Location](https://img.shields.io/badge/Ontario-Canada-red)](#)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/asma-fariha"><img src="https://img.shields.io/badge/LinkedIn-0F1117?style=flat-square&logo=linkedin&logoColor=C4622D&labelColor=0F1117" /></a>
+  <a href="https://asmafariha.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F1117?style=flat-square&logo=vercel&logoColor=C4622D&labelColor=0F1117" /></a>
+  <a href="https://scholar.google.com/citations?user=WVkjT2YAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-0F1117?style=flat-square&logo=googlescholar&logoColor=C4622D&labelColor=0F1117" /></a>
+  <a href="mailto:asma.fariha.ahmad@gmail.com"><img src="https://img.shields.io/badge/Email-0F1117?style=flat-square&logo=maildotru&logoColor=C4622D&labelColor=0F1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AsmaFariha&style=flat-square&color=C4622D&label=views" />
+</p>
 
 ---
 
-I build **LLM and agentic systems end-to-end** — data pipelines, model evaluation, containerized deployment, and monitoring. Currently working at the **data layer of frontier AI** at Mercor, building Python tooling and quality systems for the multimodal human data that trains Tier-1 LLMs.
+## `▸ about`
 
-- 🔬 **5× IEEE-published** — LLM-based log parsing, continual learning, CI/CD ML, predictive modelling
-- 🎓 **MASc, AI in Software Engineering** — Ontario Tech University (CGPA 4.0 / 4.3)
-- 🏗️ I take projects from research prototype to deployed product
+```
+role     · AI/ML Engineer building LLM systems for frontier AI labs
+now      · Technical Project Manager @ Mercor AI (San Francisco · remote)
+focus    · LLM safety, red-teaming, evaluation, GenAI applications
+research · IEEE-published on LLMs, anomaly detection & continual learning
+based    · Oshawa, ON — open to remote & Toronto/NYC/SF hybrid
+```
 
-## 🚀 Featured project
+---
 
-### [🇫🇷 French Coach](https://github.com/AsmaFariha/french-coach-hackathon)
+## `▸ featured work`
 
-An **agentic** French study tutor that turns class notes into grounded practice. The core is a multi-step Coach Agent (**plan → generate → self-critique → revise**) that reviews and fixes its own output before showing it — not a single LLM call behind a text box.
+<table>
+<tr><td valign="top" width="33%">
 
-`MiniCPM4.1-8B (self-hosted)` · `MiniCPM-V vision` · `Agentic loop` · `spaCy NLP` · `Gradio` · `Supabase/Postgres` · `Docker` · `Hugging Face ZeroGPU`
+**🧠 LLM & GenAI**
 
-[**▶ View repo & demo →**](https://github.com/AsmaFariha/french-coach-hackathon)
+- **[CodeSecureAI](https://github.com/AsmaFariha/CodeSecureAI)**
+  GPT-3.5 code vulnerability detection · 90% TPR
+- **[Log Anomaly Detection w/ LLMs](https://ieeexplore.ieee.org/abstract/document/10667308)**
+  IEEE 2024 · GPT-3.5 + autoencoders
+- **LLM Safety Red-Teaming Harness** *(in progress)*
+  OWASP LLM Top 10 + MITRE ATLAS coverage
 
-## 🛠️ Tech stack
+</td><td valign="top" width="33%">
 
-**ML / AI** &nbsp;`PyTorch` `TensorFlow` `LLM APIs` `RAG` `Agentic pipelines` `LSTM / CNN` `XGBoost · CatBoost` `Prompt engineering`
+**🔬 ML Research**
 
-**Engineering** &nbsp;`Python` `Docker` `CI/CD` `Flask / Gradio` `REST APIs` `Azure`
+- **RTOS Anomaly Detection**
+  LSTM + CNN · TensorFlow-GPU · 100% acc.
+- **CI/CD Test Prioritization**
+  CatBoost incremental · 90% APFD · 60% faster
+- **Predictive Bug Modelling**
+  Random Forest + LSTM · MAPE 5%
 
-**Data** &nbsp;`PostgreSQL` `MongoDB` `Snowflake` `Pandas` `Feature engineering` `Model monitoring & eval`
+</td><td valign="top" width="33%">
 
-## 📚 Selected publications
+**💼 Industry**
 
-- **Log Anomaly Detection by Leveraging LLM-Based Parsing and Embedding with Attention** — IEEE, 2024
-- **Replay-Based Continual Learning for Test Case Prioritization** — CCIW Workshop, IEEE, 2024
-- **A Systematic Literature Review on Requirements Engineering for Embedded Software** — IEEE Access, 2024
+- **Mercor AI**
+  Multimodal data ops · $100K/mo · Tier-1 AI labs
+- **IBM CAS Canada**
+  Production ML · Open Liberty CI/CD
+- **Accenture**
+  Telecom middleware · 50M users · 99.97% SLA
 
-[See all on Google Scholar →](https://scholar.google.com/citations?user=WVkjT2YAAAAJ&hl=en)
+</td></tr>
+</table>
 
-<div align="center">
+📚 **[Full publication list on Google Scholar →](https://scholar.google.com/citations?user=WVkjT2YAAAAJ&hl=en)**
 
-![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&theme=default)
+---
 
-</div>
+## `▸ stack`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0F1117?style=flat-square&logo=python&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/PyTorch-0F1117?style=flat-square&logo=pytorch&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-0F1117?style=flat-square&logo=tensorflow&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/scikit--learn-0F1117?style=flat-square&logo=scikitlearn&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/OpenAI-0F1117?style=flat-square&logo=openai&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0F1117?style=flat-square&logo=huggingface&logoColor=C4622D&labelColor=0F1117" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0F1117?style=flat-square&logo=pandas&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/NumPy-0F1117?style=flat-square&logo=numpy&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/Flask-0F1117?style=flat-square&logo=flask&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/FastAPI-0F1117?style=flat-square&logo=fastapi&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/MongoDB-0F1117?style=flat-square&logo=mongodb&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/Snowflake-0F1117?style=flat-square&logo=snowflake&logoColor=C4622D&labelColor=0F1117" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-0F1117?style=flat-square&logo=docker&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0F1117?style=flat-square&logo=githubactions&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/Azure-0F1117?style=flat-square&logo=microsoftazure&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/React-0F1117?style=flat-square&logo=react&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/SQL-0F1117?style=flat-square&logo=postgresql&logoColor=C4622D&labelColor=0F1117" />
+  <img src="https://img.shields.io/badge/Linux-0F1117?style=flat-square&logo=linux&logoColor=C4622D&labelColor=0F1117" />
+</p>
+
+---
+
+## `▸ activity`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&title_color=C4622D&icon_color=C4622D&text_color=F7F5F0&bg_color=0F1117&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaFariha&layout=compact&hide_border=true&title_color=C4622D&text_color=F7F5F0&bg_color=0F1117&langs_count=8" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AsmaFariha&theme=dark&hide_border=true&background=0F1117&stroke=C4622D&ring=C4622D&fire=C4622D&currStreakLabel=C4622D&sideLabels=F7F5F0&currStreakNum=F7F5F0&dates=F7F5F0&sideNums=F7F5F0" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <sub><code>shipping ML. reading papers. building for LLM safety.</code></sub>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=0,2,10&section=footer)
