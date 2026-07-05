@@ -158,9 +158,9 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
 ## `▸ Activity`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&title_color=C4622D&icon_color=C4622D&text_color=F7F5F0&bg_color=0F1117" height="165" alt="Asma's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaFariha&show_icons=true&hide_border=true&title_color=C4622D&icon_color=C4622D&text_color=F7F5F0&bg_color=0F1117&cache_seconds=1800&v=2" height="165" alt="Asma's GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaFariha&layout=compact&hide_border=true&title_color=C4622D&text_color=F7F5F0&bg_color=0F1117&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaFariha&layout=compact&hide_border=true&title_color=C4622D&text_color=F7F5F0&bg_color=0F1117&langs_count=8&cache_seconds=1800&v=2" height="165" alt="Top languages" />
 </p>
 
 ---
