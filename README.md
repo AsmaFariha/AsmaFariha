@@ -1,5 +1,5 @@
 <!-- ── BANNER ──────────────────────────────────────────────── -->
-![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F1117,50:2C2F3A,100:C4622D&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=42&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems&descSize=14&descAlignY=65)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F1117,50:2C2F3A,100:C4622D&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=42&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%C2%B7%20Agentic%20Systems&descSize=14&descAlignY=65)
 
 <!-- ── TYPING INTRO ────────────────────────────────────────── -->
 <p align="center">
