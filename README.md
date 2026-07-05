@@ -1,5 +1,5 @@
 <!-- ── BANNER ──────────────────────────────────────────────── -->
-![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F1117,50:2C2F3A,100:C4622D&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=42&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%C2%B7%20Agentic%20Systems&descSize=14&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F1117,50:2C2F3A,100:C4622D&text=Asma%20Fariha&fontColor=F7F5F0&fontSize=42&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%C2%B7%20Agentic%20Systems&descSize=14&descAlignY=65" width="100%" alt="banner" />
 
 <!-- ── TYPING INTRO ────────────────────────────────────────── -->
 <p align="center">
@@ -169,4 +169,4 @@ Hugging Face ZeroGPU · deterministic French NLP via spaCy · Postgres persisten
   <sub><code>shipping ML · reading papers · building agentic systems</code></sub>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=0F1117&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0F1117&section=footer" width="100%" alt="footer" />
